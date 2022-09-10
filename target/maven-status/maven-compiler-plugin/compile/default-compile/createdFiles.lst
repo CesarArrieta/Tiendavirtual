@@ -3,3 +3,4 @@ com\TiendaApu\entidades\Categorias.class
 com\TiendaApu\controladores\ControladorPrincipal.class
 com\TiendaApu\repositorios\ICategoriasRepositorio.class
 com\TiendaApu\TiendavirtualApplication.class
+com\TiendaApu\controladores\ControladorPrincipal.class

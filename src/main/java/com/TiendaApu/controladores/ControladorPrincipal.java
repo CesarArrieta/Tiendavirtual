@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class ControladorPrincipal {
+<<<<<<< Updated upstream
     
     @GetMapping("/")
     public String cargarIndex(){
@@ -19,3 +20,15 @@ public class ControladorPrincipal {
     }
 }
     
+=======
+    @GetMapping("/")
+    public String cargarIndex(){
+        return "index";
+    }    
+    @GetMapping("/productos")
+    public String catalogoProductos(){
+        return "lista_productos";
+    }  
+     
+}
+>>>>>>> Stashed changes
