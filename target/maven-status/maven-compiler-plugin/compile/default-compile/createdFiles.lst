@@ -1,6 +1,6 @@
 com\TiendaApu\servicios\CategoriaServicios.class
+Prueba.class
 com\TiendaApu\entidades\Categorias.class
-com\TiendaApu\controladores\ControladorPrincipal.class
 com\TiendaApu\repositorios\ICategoriasRepositorio.class
+com\TiendaApu\controladores\ControllerPrincipal.class
 com\TiendaApu\TiendavirtualApplication.class
-com\TiendaApu\controladores\ControladorPrincipal.class

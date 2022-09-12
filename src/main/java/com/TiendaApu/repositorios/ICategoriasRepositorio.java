@@ -11,5 +11,5 @@ public interface ICategoriasRepositorio extends JpaRepository<Categorias, Intege
     
    public List<Categorias> findByNombreContainingOrDepartamentoContaining (String criterio1, String criterio2);
    
-   /*public List<Categorias> finByHabTrue();*/
+   //public List<Categorias> finByHabTrue();
 }

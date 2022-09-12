@@ -18,11 +18,11 @@ class TiendavirtualApplicationTests {
 	@Test
         @Disabled
 	void verificarSiGuardaUnaCategoria() {
-            Categorias c = new Categorias("Ropa deportiva para ninia ", "ninia deportiva", true );
+            Categorias c = new Categorias("Ropa casual para hombre", "hombre casual", true );
             Categorias guardado = servicio.crearNuevaCategoria(c);
             Assertions.assertTrue(guardado.getId() > 0, "ERROR, no se pudo guardar categoria nueva");
 	}
-        
+       
         @Test
         @Disabled
 	void verificarSiActualizaUnaCategoria() {
