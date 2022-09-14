@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.TiendaApu.TiendavirtualApplicationTests
 -------------------------------------------------------------------------------
-<<<<<<< Updated upstream
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 180.121 s - in com.TiendaApu.TiendavirtualApplicationTests
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.481 s - in com.TiendaApu.TiendavirtualApplicationTests
->>>>>>> Stashed changes
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 59.79 s - in com.TiendaApu.TiendavirtualApplicationTests
